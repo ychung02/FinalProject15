@@ -13,3 +13,4 @@
 <ul>-allowing pages to flip over</ul>
 <ul>-having the characteristics of a real magazine (paper quality, print quality etc.)</ul>
 </li>
+<img src="http://assets.fontsinuse.com/static/use-media-items/17/16876/full-1200x800/52cf4b68/MH_Rodeo6_2400x1600_09.jpeg">

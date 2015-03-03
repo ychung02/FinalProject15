@@ -1,7 +1,7 @@
 # FinalProject15
-firstday_start
 
-<h1>Interactive Portfolio</h1>
+
+<h2>Interactive Portfolio</h2>
 <p>I would like to utilize creative techniques for my portfolio, making the website itself a place of experimentation.</p>
 
 <h2>Small Procedures for Investigation</h2>
